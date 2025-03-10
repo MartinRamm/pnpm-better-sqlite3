@@ -1,0 +1,16 @@
+{
+  "name": "pnpm-better-sqlite3",
+  "version": "1.0.0",
+  "description": "",
+  "author": "MartinRamm <https://github.com/MartinRamm>",
+  "license": "Unlicense",
+  "packageManager": "pnpm@10.5.2",
+  "dependencies": {
+    "better-sqlite3": "^11.8.1"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "better-sqlite3"
+    ]
+  }
+}
